@@ -1,0 +1,8 @@
+environment:
+  DATABASE_URL: ${DATABASE_URL}
+packages:
+  - name: Coffee
+    functions:
+      - name: getCoffee
+
+z
